@@ -1,0 +1,1 @@
+print("bejalar oop dasar")
